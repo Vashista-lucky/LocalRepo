@@ -1,0 +1,1 @@
+This is my Readme file, i am trying to add this after creating git repo on local device and then pushing it to github repo remote. 
